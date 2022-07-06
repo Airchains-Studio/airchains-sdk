@@ -1,5 +1,5 @@
 # Vayupankh
-[![npm version](https://img.shields.io/npm/v/vayupankh.svg?style=flat-square)](https://www.npmjs.org/package/vayupankh)
+[![npm version](https://img.shields.io/npm/v/airchains.svg?style=flat-square)](https://www.npmjs.org/package/airchains)
 
 
 ## Set-up
