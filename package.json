@@ -1,12 +1,26 @@
 {
   "name": "airchains",
-  "version": "1.0.0",
-  "description": "airchains",
+  "version": "1.0.1",
+  "description": "",
   "main": "index.js",
+  "homepage": "https://airchains.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airchains-Studio/airchains-sdk.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Airchains",
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "blockchain",
+    "ethereum",
+    "airchains",
+    "web3"
+  ],
+  "author": "airchains Network",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
