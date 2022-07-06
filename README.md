@@ -6,11 +6,11 @@
 
 1. Download the NPM module
 ```bash
-$ npm install airchains-sdk@latest
+$ npm install airchains@latest
 ```
 2. Require the package in your code.
 ```js
-const Airchains = require('airchains-sdk');
+const Airchains = require('airchains');
 ```
 3. Initialize with your [Airchains](https://console.airchains.io) auth key
 ```js
